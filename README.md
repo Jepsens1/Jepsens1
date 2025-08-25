@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Jepsens1
 
-- 🎯 C# developer transitioning to fullstack web development.
+- 🎯 Fullstack developer with a background in C#
 - 🖥️ Languages: C#, Python, JavaScript, TypeScript
 - ⚡ Frontend: React, Angular
 - 🚀 Backend: FastAPI, C# Web-API, Node.js/Express.js
+- 🗄️ Databases: MySQL, PostgreSQL, MSSQL
 - 📦 Projects: [media-organizer](https://github.com/Jepsens1/media-organizer), [compare-folder-hash](https://github.com/Jepsens1/compare-folder-hash)
 - 🌱 Currently learning: Advanced React, FastAPI, Python, JavaScript/TypeScript
 
