@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Jepsens1
 
-<!--
-**Jepsens1/Jepsens1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎯 C# developer transitioning to fullstack web development.
+- 🖥️ Languages: C#, Python, JavaScript, TypeScript
+- ⚡ Frontend: React
+- 🚀 Backend: FastAPI, Flask
+- 📦 Projects: [media-organizer](https://github.com/Jepsens1/media-organizer), [compare-folder-hash](https://github.com/Jepsens1/compare-folder-hash)
+- 🌱 Currently learning: Advanced React, FastAPI, Python, JavaScript/TypeScript
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jepsens1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jepsens1&show_icons=true)
+![Jepsens1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jepsens1&layout=compact)
