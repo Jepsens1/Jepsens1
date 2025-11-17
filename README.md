@@ -3,7 +3,7 @@
 
 💻 I've been coding in C# & .NET primarily for over 5+ years, and occasionaly use Python, TypeScript or JavaScript language & framework. 
 
-📖 I'm **learning JavaScript/TypeScript** and **deepening my C# & .NET expertise** at the moment.
+📖 I'm learning **JavaScript/TypeScript** and **deepening my C# & .NET expertise** at the moment.
 
 🛠️ Right now working building an All-in-One Discord Bot [Snappy](https://github.com/Jepsens1/Snappy) in JavaScript.
 
