@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jepsens1 
+# 👋 Hi, I'm Phillip Jepsen 
 ## .NET | Full-Stack Developer
 
 💻 I've been coding in C# & .NET primarily for over 5+ years, and occasionaly use Python, TypeScript or JavaScript language & framework. 
